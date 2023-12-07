@@ -1,2 +1,3 @@
-# dsa_a2z
-Striver A2Z DSA Course
+# DSA_A2Z
+
+## Striver A2Z DSA Course Notes
